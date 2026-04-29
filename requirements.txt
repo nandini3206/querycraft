@@ -1,6 +1,7 @@
 streamlit
 python-dotenv
 langchain
+langchain-text-splitters
 openai
 faiss-cpu
 tiktoken
