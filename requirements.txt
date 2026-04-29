@@ -1,9 +1,10 @@
 streamlit
 python-dotenv
+PyMuPDF
 langchain
 langchain-text-splitters
-openai
-faiss-cpu
-tiktoken
-PyMuPDF
 groq
+sentence-transformers
+faiss-cpu
+numpy
+tiktoken
